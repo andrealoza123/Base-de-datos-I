@@ -18,5 +18,8 @@ Este es un repositorio donde se almacenan todos los archivos individual de cada 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (MIT LICENCE) 
+
+## MUCHAS GRACIAS!!!
+
 
